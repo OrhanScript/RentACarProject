@@ -10,4 +10,6 @@ public class GetListModelListItemDto : IDto
     public string Name { get; set; }
     public decimal DailyPrice { get; set; }
     public string ImageUrl { get; set; }
+
+
 }
